@@ -1,4 +1,4 @@
-package Arrays;
+
 
 public class arraytwod {
     public static void main(String[] args) {
