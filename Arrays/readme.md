@@ -58,7 +58,24 @@ How do you evaluate the performance of different sorting algorithms, and what is
 10)What is the difference between space complexity and time complexity, and how do you analyze the space complexity of an algorithm?
 11)Can you explain the concept of asymptotic analysis, and how is it used to evaluate the performance of an algorithm?
 
+Table of Complexity Comparison:
 
+# Name	Best Case  	Average Case  	Worst Case 	Memory	Stable   	Method Used
+- Quick Sort	n log n	n log n	n^{2}	log n	No	Partitioning
+- Merge Sort	n log n	n log n	n log n	n	Yes	Merging
+- Heap Sort	n log n	n log n	n log n	1	No	Selection
+- Insertion Sort	n	n^{2}	n^{2}	1	Yes	Insertion
+- Tim Sort	n	n log n	n log n	n	Yes	Insertion & Merging
+- Selection Sort	n^{2}	n^{2}	n^{2}	1	No	Selection
+- Shell Sort	n log n	n^{4/3}	n^{3/2}	1	No	Insertion
+- Bubble Sort	n	n^{2}	n^{2}	1	Yes	Exchanging
+- Tree Sort	n log n	n log n	n log n	n	Yes	Insertion
+- Cycle Sort	n^{2}	n^{2}	n^{2}	1	No	Selection
+- Strand Sort	n	n^{2}	n^{2}	n	Yes	Selection
+- Cocktail Shaker Sort	n	n^{2}	n^{2}	1	Yes	Exchanging
+- Comb Sort	n log n	n^{2}	n^{2}	1	No	Exchanging
+- Gnome Sort	n	n^{2}	n^{2}	1	Yes	Exchanging
+- Odd–even Sort	n	n^{2}	n^{2}	1	Yes	Exchanging
 
 
 
