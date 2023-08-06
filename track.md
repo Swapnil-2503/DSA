@@ -9,7 +9,7 @@
 - [ ][ ] Bit manipulation
 - [x][ ] Maths Concepts
 - [x][ ] Stacks & Queues
-- [][ ] LinkedList
+- [ ][ ] LinkedList
 - [ ][ ] Trees & Tries
 - [ ][ ] Heaps
 - [ ][ ] Greedy Algorithms
