@@ -1,17 +1,17 @@
 # Track
 
-- [x] Time complexities [x]
-- [ ][ ] Arrays, Pointers & Sliding windows
-- [ ][ ] Sorting algorithms
-- [ ][ ] Strings
-- [ ][ ] Recursion 
-- [ ][ ] Hashing
+- [x][x] Time complexities 
+- [x][x] Arrays, Pointers & Sliding windows
+- [x][ ] Sorting algorithms
+- [x][x] Strings
+- [x][ ] Recursion 
+- [x][ ] Hashing
 - [ ][ ] Bit manipulation
-- [ ][ ] Maths Concepts
-- [ ][ ] Stacks & Queues
-- [ ][ ] LinkedList
+- [x][ ] Maths Concepts
+- [x][ ] Stacks & Queues
+- [][ ] LinkedList
 - [ ][ ] Trees & Tries
 - [ ][ ] Heaps
 - [ ][ ] Greedy Algorithms
-- [ ][ ] Dynamic Programming
+- [x][ ] Dynamic Programming
 - [ ][ ] Graphs
