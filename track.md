@@ -1,6 +1,6 @@
 # Track
 
-- [x] Time complexities [x]
+- [x] Time complexities
 - [ ] Arrays, Pointers & Sliding windows
 - [ ] Sorting algorithms
 - [ ] Strings
