@@ -10,7 +10,7 @@ public class oddeven {
 
         // if(b&true) System.out.println("EVEN");
         // else  System.out.println("ODD");
-        if((a&1)==1) System.out.println("ODD");
+        if((a%2==1) System.out.println("ODD");
         else System.out.println("EVEN");
     }
 }
